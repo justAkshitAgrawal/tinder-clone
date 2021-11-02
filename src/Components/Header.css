@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 2px solid #f9f9f9;
+  margin-top: 10px;
+}
+
+.header__logo {
+  height: 100px;
+  width: auto;
+  object-fit: contain;
+  /* margin-top: -25px; */
+}
