@@ -25,3 +25,11 @@
 .swipe {
   position: absolute;
 }
+
+@media (max-width: 480px) {
+  .card {
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.3);
+  }
+}
